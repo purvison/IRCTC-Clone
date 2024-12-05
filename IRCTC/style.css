@@ -1,0 +1,486 @@
+#login {
+  font-size: 20px;
+  position: relative;
+  top: -35px;
+  left: 220px;
+}
+#register {
+  font-size: 20px;
+  position: relative;
+  top: -35px;
+  left: 225px;
+}
+#agent {
+  font-size: 20px;
+  position: relative;
+  top: -35px;
+  left: 230px;
+}
+#contact {
+  font-size: 20px;
+  position: relative;
+  top: -35px;
+  left: 235px;
+}
+#help {
+  font-size: 20px;
+  position: relative;
+  top: -35px;
+  left: 240px;
+}
+#daily {
+  font-size: 20px;
+  position: relative;
+  top: -35px;
+  color: red;
+  left: 245px;
+}
+#logo2 {
+  top: 2px;
+  left: 1160px;
+  padding: 10px;
+  position: relative;
+}
+#exclusive {
+  left: -689px;
+  position: relative;
+}
+#drop {
+  top: 45px;
+  left: -689px;
+  position: absolute;
+  text-align: right;
+}
+.ipayimg {
+  height: 40px;
+  width: 40px;
+  left: -110px;
+  top: -34px;
+  position: relative;
+}
+#cart {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  top: 100px;
+}
+.fa-cart-shopping {
+  font-size: 30px;
+  left: -115px;
+  top: -28px;
+  color: orange;
+  position: relative;
+}
+.fa-house {
+  left: 25px;
+  top: 10px;
+  position: relative;
+}
+#trains {
+  left: -680px;
+  top: 0px;
+  position: relative;
+  color: orange;
+}
+#trainsdrop {
+  left: -686px;
+}
+.bgimg {
+  width: 100%;
+}
+.booking {
+  height: 620px;
+  width: 880px;
+  background-color: white;
+  top: -738px;
+  left: 100px;
+  position: relative;
+}
+.bookingtxt {
+  font-size: 30px;
+  top: 25px;
+  left: 400px;
+  color: #2f4676;
+  position: relative;
+  text-decoration: none;
+}
+.pnr {
+  width: 435.84px;
+  height: 36px;
+  background-color: #213d77;
+  top: -738px;
+  left: 100px;
+  position: relative;
+}
+.pnrtxt {
+  text-align: center;
+  text-decoration: none;
+  left: 163px;
+  top: 6px;
+  position: relative;
+  color: white;
+}
+.pnrimg {
+  height: 30px;
+  width: 25px;
+  color: black;
+  position: relative;
+  left: -70px;
+  top: 3px;
+}
+.charts {
+  width: 435.84px;
+  height: 36px;
+  background-color: #213d77;
+  position: relative;
+  top: -1394px;
+  left: 544px;
+}
+.chartstxt {
+  text-align: center;
+  text-decoration: none;
+  left: 163px;
+  top: 6px;
+  position: relative;
+  color: white;
+}
+.chartsimg {
+  height: 30px;
+  width: 25px;
+  color: black;
+  position: relative;
+  left: -140px;
+  top: 3px;
+}
+#container {
+  top: -1309px;
+  left: 124px;
+  position: relative;
+}
+#exampleInputEmail1 {
+  width: 466.13px;
+  height: 40.85;
+}
+.fromtxt {
+  top: -30px;
+  left: 55px;
+  position: relative;
+}
+.fa-location-arrow {
+  font-size: 30px;
+  top: -72px;
+  left: 10px;
+  position: relative;
+  color: black;
+}
+#to {
+  width: 466.13px;
+  height: 40.85;
+}
+.fa-location-dot {
+  font-size: 30px;
+  top: -34px;
+  left: 10px;
+  position: relative;
+  color: black;
+}
+#totxt {
+  top: -37px;
+  left: 25px;
+  position: relative;
+}
+.fa-arrow-right-arrow-left {
+  font-size: 40px;
+  rotate: 90deg;
+  left: 200px;
+  top: -146px;
+  position: relative;
+}
+.general {
+  width: 466.13px;
+  height: 39.42px;
+  border-radius: 5px;
+  top: -40px;
+  position: relative;
+}
+.calender {
+  top: -310px;
+  left: 505px;
+  position: relative;
+  width: 324px;
+  height: 40.85px;
+  border-radius: 5px;
+}
+
+.classes {
+  width: 324.38px;
+  height: 39.42px;
+  border-radius: 5px;
+  top: -224px;
+  left: 505px;
+  position: relative;
+}
+#check {
+  position: relative;
+  top: -113px;
+  left: 10px;
+}
+#flexible {
+  position: relative;
+  top: -153px;
+  left: 321px;
+}
+#berth {
+  position: relative;
+  top: -153px;
+  left: 10px;
+}
+#pass {
+  position: relative;
+  top: -190px;
+  left: 321px;
+}
+#search {
+  color: white;
+  top: -170px;
+  left: 10px;
+  position: relative;
+  background: #fb792b;
+  width: 182.63px;
+  height: 36px;
+}
+#btn {
+  color: white;
+  top: -170px;
+  left: 390px;
+  position: relative;
+  background: #fb792b;
+  width: 264.2px;
+  height: 36px;
+}
+.div2 {
+  width: 880.5px;
+  height: 95px;
+  background-color: white;
+  position: relative;
+  top: -1365px;
+  left: 99px;
+}
+.div2txt {
+  color: #000ff0;
+  text-align: center;
+}
+.div2link {
+  text-align: center;
+  text-decoration: none;
+  position: relative;
+  left: 320px;
+}
+#line {
+  bottom: 1380px;
+  position: relative;
+}
+.div3 {
+  height: 74.8px;
+  width: 1120px;
+  position: relative;
+  left: 150px;
+}
+.div3txt {
+  text-align: center;
+  font: 34px;
+  bottom: 1300px;
+  position: relative;
+}
+.div4 {
+  width: 1000px;
+  height: 333.7px;
+  background-color: white;
+  position: relative;
+  bottom: 1238px;
+  left: 386px;
+}
+.fa-plane {
+  font-size: 40px;
+  position: relative;
+  top: 28px;
+  left: 30px;
+}
+.plane {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  border-radius: 50%;
+  position: relative;
+  top: 13px;
+  left: 10px;
+  border: 2px solid black;
+}
+.holiday {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  border-radius: 50%;
+  position: relative;
+  top: 63px;
+  left: 10px;
+  border: 2px solid black;
+}
+.fa-umbrella-beach {
+  font-size: 40px;
+  position: relative;
+  top: 22px;
+  left: 26px;
+}
+.planetxt {
+  font-size: 20px;
+  position: relative;
+  top: 57px;
+  left: 6px;
+  text-align: center;
+}
+.holidaytxt {
+  font-size: 20px;
+  position: relative;
+  top: 58px;
+  left: 5px;
+  text-align: center;
+}
+.hotels {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  border-radius: 50%;
+  position: relative;
+  top: -188px;
+  left: 190px;
+  border: 2px solid black;
+}
+.fa-bed {
+  font-size: 40px;
+  position: relative;
+  top: 22px;
+  left: 26px;
+}
+.hotelstxt {
+  font-size: 20px;
+  position: relative;
+  top: 58px;
+  left: 6px;
+  text-align: center;
+}
+.train {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  border-radius: 50%;
+  position: relative;
+  top: -134px;
+  left: 190px;
+  border: 2px solid black;
+}
+.traintxt {
+  font-size: 20px;
+  position: relative;
+  top: 60px;
+  left: 3px;
+  text-align: center;
+}
+.fa-train {
+  font-size: 40px;
+  position: relative;
+  top: 28px;
+  left: 30px;
+}
+.rail {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  border-radius: 50%;
+  position: relative;
+  top: -388px;
+  left: 351px;
+  border: 2px solid black;
+}
+.fa-money-bill-trend-up {
+  font-size: 40px;
+  position: relative;
+  top: 28px;
+  left: 30px;
+}
+.railtxt {
+  font-size: 20px;
+  position: relative;
+  top: 60px;
+  left: 7px;
+  text-align: center;
+}
+.hill {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  border-radius: 50%;
+  position: relative;
+  top: -333px;
+  left: 351px;
+  border: 2px solid black;
+}
+.fa-mountain {
+  font-size: 40px;
+  position: relative;
+  top: 28px;
+  left: 30px;
+}
+.hilltxt {
+  font-size: 20px;
+  position: relative;
+  top: 60px;
+  left: 2px;
+  text-align: center;
+}
+.cattering {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  border-radius: 50%;
+  position: relative;
+  top: -588px;
+  left: 506px;
+  border: 2px solid black;
+}
+.catteringtxt {
+  font-size: 20px;
+  position: relative;
+  top: 60px;
+  left: 2px;
+  text-align: center;
+}
+.fa-utensils {
+  font-size: 40px;
+  position: relative;
+  top: 28px;
+  left: 30px;
+}
+.bus {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  border-radius: 50%;
+  position: relative;
+  top: -528px;
+  left: 506px;
+  border: 2px solid black;
+}
+.fa-bus {
+  font-size: 40px;
+  position: relative;
+  top: 28px;
+  left: 30px;
+}
+.bustxt {
+  font-size: 20px;
+  position: relative;
+  top: 60px;
+  left: 2px;
+  text-align: center;
+}
